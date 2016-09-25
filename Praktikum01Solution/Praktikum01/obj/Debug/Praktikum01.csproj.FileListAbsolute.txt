@@ -1,0 +1,6 @@
+C:\Users\alikhach\Desktop\praktukum1\Praktikum01Solution\Praktikum01\bin\Debug\Praktikum01.exe.config
+C:\Users\alikhach\Desktop\praktukum1\Praktikum01Solution\Praktikum01\bin\Debug\Praktikum01.exe
+C:\Users\alikhach\Desktop\praktukum1\Praktikum01Solution\Praktikum01\bin\Debug\Praktikum01.pdb
+C:\Users\alikhach\Desktop\praktukum1\Praktikum01Solution\Praktikum01\obj\Debug\Praktikum01.csprojResolveAssemblyReference.cache
+C:\Users\alikhach\Desktop\praktukum1\Praktikum01Solution\Praktikum01\obj\Debug\Praktikum01.exe
+C:\Users\alikhach\Desktop\praktukum1\Praktikum01Solution\Praktikum01\obj\Debug\Praktikum01.pdb
