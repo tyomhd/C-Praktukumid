@@ -14,7 +14,18 @@ namespace Praktikum01
             // KysiKasutajaltArv("Palun sisesta number:");
 
             //Luua meetod, mis küsib kasutajalt vanust ning tagastab, kas tegemist on täisealise kasutajaga
-            bool vanusekontroll = KasOnaisealine(KysiKasutajaltArv("Palun sisestage oma vanus:"));
+            //bool vanusekontroll = KasOnaisealine(KysiKasutajaltArv("Palun sisestage oma vanus:"));
+
+            //Inimene uusInimene = new Inimene();
+            //uusInimene.Eesnimi = "Peeter";
+            //uusInimene.Perenimi = "Petrovich";
+            //Inimene teineInimene = new Inimene()
+            //{
+            //    Eesnimi = "Hubba",
+            //    Perenimi = "Bubba"
+            //};
+
+            Ristkylik uusRistkylik = new Ristkylik(2,3);
 
 
         }
